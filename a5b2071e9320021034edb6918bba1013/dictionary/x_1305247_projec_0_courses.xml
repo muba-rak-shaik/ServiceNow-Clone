@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="10d3879e9320021034edb6918bba1079" label="courses" max_length="40" name="x_1305247_projec_0_courses" type="collection">
+        <element label="category" max_length="40" name="category" type="string"/>
+        <element label="course_description" max_length="40" name="course_description" type="string"/>
+        <element label="course_id" mandatory="true" max_length="6" name="course_id" type="string"/>
+        <element label="course_name" max_length="40" name="course_name" type="string"/>
+        <element label="duration" max_length="40" name="duration" type="integer"/>
+        <element label="instructor" max_length="40" name="instructor" type="string"/>
+    </element>
+</database>
